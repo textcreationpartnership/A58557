@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful account of the manner of the election of Sir William Poultney, and Sir William Waller, Knights to serve as members of the ensuing Parliament at Oxford, for the city of Westminster, and the liberties thereof, upon Thursday the 10th of February, 1680/1 : in answer to a letter from a person of quality in London.</title>
+            <author>L. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58557</idno>
+            <idno type="STC">Wing S108</idno>
+            <idno type="STC">ESTC R13637</idno>
+            <idno type="EEBO-CITATION">13135680</idno>
+            <idno type="OCLC">ocm 13135680</idno>
+            <idno type="VID">97931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 750:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful account of the manner of the election of Sir William Poultney, and Sir William Waller, Knights to serve as members of the ensuing Parliament at Oxford, for the city of Westminster, and the liberties thereof, upon Thursday the 10th of February, 1680/1 : in answer to a letter from a person of quality in London.</title>
+                  <author>L. S.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Letter signed: L.S.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pulteney, William, --  Sir, d. 1691.</term>
+               <term>Waller, William, --  Sir, d. 1699.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97931:1" rendition="simple:additions"/>
+            <head>A Faithful Account Of the MANNER of the ELECTION OF Sir <hi>WILLIAM PO<g ref="char:V">Ʋ</g>LTNEY,</hi> AND Sir <hi>WILLIAM WALLER,</hi> Knights, To ſerve as Members of the enſuing Parliament at <hi>Oxford,</hi> for the City of <hi>Weſtminſter,</hi> and the Liberties thereof, upon <hi>Thurſday</hi> the 10th of <hi>February,</hi> 1680/1.</head>
+            <head type="sub">
+               <hi>In Anſwer to a Letter from a Perſon of Quality in</hi> London.</head>
+            <opener>
+               <salute>Worthy Sir!</salute>
+            </opener>
+            <p>I Perceive your Curioſity will not acquieſce in the General report of the iſſue of this days work, unleſs you receive alſo ſatisfaction in the leſſer circumſtances, and more minute occurrences of the whole affair. I confeſs my ſelf no great Friend to the Curious Humour, and do chuſe commonly to diſoblige, rather than gratifie a nice Inquiſitiveneſs into the ſmall punctilio's of great Actions; and yet becauſe your Importunity muſt needs proceed from ſome private Reaſons, where<g ref="char:EOLhyphen"/>with I am not acquainted, which will juſtifie your earneſtneſs to your ſelf, I ſhall Inter<g ref="char:EOLhyphen"/>pret your Deſires to be Commands; and Commands according to the Modern Divinity, are to be obeyed, not diſputed.</p>
+            <p>I have now beheld in no more than two years, no leſs than three Elections of Burgeſſes for this place, to the great ſatisfaction no doubt of the people, who delight in frequent, Parliaments; and it's ſcarce credible how much the temper and Genius of the Electors here in this laſt, is altered from what it was in the two former Elections. Then we had no<g ref="char:EOLhyphen"/>thing but indecent Heats and Animoſities, now nothing appear'd but Unanimity, and an Amicable concurrence amongſt us: Formerly the differences produced ſuch bitter reflecti<g ref="char:EOLhyphen"/>ons, ſuch heart-burnings, as either flamed out in Revenge, or inwardly ſmothered in ſe<g ref="char:EOLhyphen"/>cret grudgings againſt their Neighbours; but this day has healed, united, and ſo compoſed thoſe contentions, that the filthy dirt which each party threw in the others face, was now wholly under our feet; and that fire which broke out in open revilings, did now only ſerve to warm mutual affections; whereof I ſhall need to give you no other Demonſtration, than this, That whereas the laſt Election coſt us ſeven or eight days tedious attendance upon an irregular and ill-governed Poll; this was now diſpatcht in leſs than half as many hours; ſo facile are matters of the greateſt difficulty to united counſel, and affections.</p>
+            <p>If you demand the viſible Reaſons of this happy change in the tempers and diſpoſitions of ſo vaſt and numerous a body; you muſt content your ſelf with the following account, and accept what I have here aſſigned, till you receive fuller ſatisfaction.</p>
+            <p>And firſt I obſerve, and obſerve it with joy, as a good Indication and Criſis, that the whole Body politick will recover its healthful conſtitution; that moſt people have their eyes opened, and are made apprehenſive, that there's no expedient can ſecure us from the eminent danger which from our inveterate Popiſh Enemies hangs over our heads, but by fixing upon ſuch perſons, as out of principle and conſcience will ſtand in the gap, and waving their pri<g ref="char:EOLhyphen"/>vate and perſonal intereſts, neglecting their immediate dependences, eſpouſe the publick welfare, and ſtand or fall with it. And indeed the late Parliament has ſo abundantly convinced us, that there hath been, and ſtill is carried on a Horrid and Deviliſh Plot both in <hi>England</hi> and <hi>Ireland</hi> againſt His Majeſties Royal Perſon, the Proteſtant Religion, and
+<pb n="2" facs="tcp:97931:2"/>the Eſtabliſht Government of the Realm, that we cannot but ſee it high time for all Prote<g ref="char:EOLhyphen"/>ſtants to unite their ſtrength againſt the daring encroachments of the common enemy, who now pluck up the Mask, and are ready to defie the Juſtice of the Nation. For we have ſeen the Maſter-piece of Romiſh policy to lie in this, to Divide us, that they may de<g ref="char:EOLhyphen"/>ſtroy us; and whilſt they are committing one part of Proteſtants to fight the other, they wait the good hour (and the worſt hour is always the beſt for a bad deſign) when they may triumph over both; And the more diſcerning (I had almoſt ſaid the leaſt diſcerning) part of mankind are now clearly ſatisfied, that it's not the Proteſtant Religion as engroſt and monopolized by any ſingle party, but as it is in its due latitude including all that are ſober in their lives, loyal in their behaviours, and ſound in the fundamentals of faith, wherein we muſt center, and arrive at a deſired ſettlement; and accordingly our Intereſt lies in chuſing ſuch perſons as may ſecure the main, and indulge the reſt, though perhaps differing among themſelves, and all of them coming ſhort in ſome notions and practiſes of what carries the publick encouragement and reward: We cannot but be ſenſible how the enemy, whilſt we ſlept, has ſown the Tares of jealouſies, ſuſpicions, and mutual diſtruſt a<g ref="char:EOLhyphen"/>mongſt ſincere, and otherwiſe knowing Proteſtants; whereby as if they had been two diſtinct and ſeparate Intereſts, they have been myning and countermining each other, accounting themſelves to have gained what the other party loſt, and to have made ſo much addition to their own, as they could withdraw from the ſtrength of the other: Whereas Time, the Mother of Truth has taught them at laſt (I hope not too late) that the ſtrength of the Proteſtants lies in their uniting and aſſociating againſt the Declared publick enemy: I may add, and I ſhall add no more, That experience has taught us how much we may be deceived in Men; how we have been too prone to cenſure ſome worthy perſons as affected to the Po<g ref="char:EOLhyphen"/>piſh, or not zealouſly affected to the Proteſtant Cauſe, who yet upon tryal have given us cauſe to retract our former judgments of them with ſhame, and to entertain more righteous thoughts of them for the future.</p>
+            <p>But, Sir! I ſhall no further purſue theſe ſpeculations, but proceed to matter of fact, and give you the Narrative of our Election at <hi>Weſtminſter,</hi> with all the circumſtances that may deſerve your notice, or anſwer your expectations.</p>
+            <p>Be pleaſed therefore to know, that Sir <hi>William Poultney,</hi> and Sir <hi>William Waller,</hi> who in former Elections were the grand Competitors, and whoſe Intereſts were moſt conſiderable amongſt us, partly through their own generous Inclinations and Propenſions to union for the general good, and partly by the Interpoſition of judicious and diſcreet perſons, who plainly ſaw that the former ſeparation of two ſuch Worthy Patriots, had begot much ill blood, were induced to unite and joyn their Intereſts; which Union was no ſooner known, and known to be real and cordial, whereof our old Inveterate jealonſies would hardly ſuffer us to be ſecure; but to the wonder of all, the envy and regret of ſome, and the great joy of all conſidering perſons, the hearts of all ſober and well-adviſed perſons were knit to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>Upon <hi>Thurſday</hi> therefore, the 10th of this inſtant <hi>February,</hi> ſeveral Gentlemen, and other perſons of good repute and quality in this City, and the Liberties, attended theſe two Wor<g ref="char:EOLhyphen"/>thy Knights at their houſes early in the morning, to conduct them to the reſpective Stations; which they had agreed upon, there to gather up their friends, who ſhould be ready and willing to accompany them into the Field. Sir <hi>William Poultney</hi> had deſigned St. <hi>James</hi> his <hi>Square,</hi> and Sir <hi>William Waller, Covent-Garden,</hi> to which places reſorted to attend them, all ſuch whom either Neighbourhood, or Relation, <hi>&amp;c.</hi> particular affection, or ſome other private Motives invited to adjoyn themſelves to their Approved Friend. At an aſſigned time, the for<g ref="char:EOLhyphen"/>mer of theſe Gentlemen marching down the <hi>Pell-Mell,</hi> in excellent order, fell in with Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and his Company, who came down the <hi>Strand</hi> with like order and decency; and at <hi>Charing-croſs</hi> both theſe Candidates joyned their Retinues: And to witneſs to all the ſpe<g ref="char:EOLhyphen"/>ctators, who from the Windows, Balconies, and other places of proſpect, in great Numbers waited to behold this happy Conjunction, the two Knights drawing near to each other, gave and received ſuch ſalutes, as expreſſed the mutual ſatisfaction of each in other, ſeconded by the joyful Acclamations of their following friends, who were now no longer ſeparated, but one united body, as formerly they had been in the ſame principles, the ſame zeal for the Proteſtant Intereſt.</p>
+            <p>Immediately after this Coalition they marched on; Sir <hi>William Poultney,</hi> as the elder per<g ref="char:EOLhyphen"/>ſon, and Knight, having the right hand, it being indifferent to wiſe perſons who enjoy'd that circumſtantial priority, ſince both were equal in the hearts of the people.</p>
+            <p>In this comely order they proceeded by <hi>Whitehall,</hi> and the Horſe-guards, without making any ſtay there, where they expected not to encreaſe their Numbers. From thence through <hi>King-ſtreet,</hi> and the Intermediate paſſes unto <hi>Tuttle-Fields,</hi> the place appointed for the view; where notwithſtanding the coldneſs of the weather, the exceeding high winds, and the vio<g ref="char:EOLhyphen"/>lent driving rain, appeared a body of Men, judged by the moſt modeſt Compute to be be<g ref="char:EOLhyphen"/>tween Two and three thouſand.</p>
+            <pb n="3" facs="tcp:97931:2"/>
+            <p>The two Knights at the Head of their Company, many whereof were on horſe-back, but the far greater Number on foot, did there patiently attend the Coming of the Deputy-Bailiff to do his Office; whoſe Province was very eaſie at this time, and might ſoon make a judgment which was the greateſt Party upon the firſt view, when there was but one party, that my poor eyes could then diſcern in the Field.</p>
+            <p>The Precept was no ſooner openly read by the Bailiff at the Head of the Company, when one Mr. <hi>Tuffton</hi> makes Application to him, and Demands the Poll on his own behalf, and thoſe that were with him; and indeed it was a claim both too reaſonable to be denied, and too raſh to have been made; but the Bailiff conſulted the duty of his place, and his demand was immediately granted.</p>
+            <p>The great Diſcourſe that employ'd all Tongues now was, upon what Motives and Encou<g ref="char:EOLhyphen"/>ragemnets, with what hopes and expectations of ſucceſs this Gentleman, with his almoſt in<g ref="char:EOLhyphen"/>viſible party ſhould demand a Poll againſt ſo many thouſands as appeared actually in the Field, and double that Number, whom the unſeaſonable weather diſcouraged from appearing: for ſome are poſitive, that half a dozen horſe, and about half a ſcore on foot were all that he could Muſter; though ſome, who conſult his credit, do aver, that he had upon the place half a ſcore horſe, and double the Number of foot followers: and ſome will not ſtick to ſay, that one half of this body were Houſe-keepers, and ſuch as might have made the Majority of Electors at <hi>Old Sarum.</hi>
+            </p>
+            <p>Whether it was that he was ſpurr'd on by the Heroick principles of Knight-errantry, and preſumed that with his ſelect number of Fayrie Knights he ſhould Encounter a Legion of the Pagan-Infantry; or whether ſome Magaſtrological, Magomantical Figure-flinger had aſſured him that all the Stars unanimouſly would Vote for him, and that at leaſt all thoſe of our He<g ref="char:EOLhyphen"/>miſphere would come down and abet his party; or that being in love with himſelf, he con<g ref="char:EOLhyphen"/>ceived upon his firſt appearance the Majority of the Electors would tack about and adhere to him; or whether ſome of his witty Aſſociates had bubled him into a conceit, that every one of his Company had the priviledg of a hundred Voices, as ſome boaſted, that at the laſt Ele<g ref="char:EOLhyphen"/>ctions they had had more heads and voices than <hi>Gorgon</hi> and <hi>Cerberus;</hi> whether it were theſe, or ſome of theſe, or other more dormant Reaſons that ſwayed with him, 'tis uncertain; yet certain it is, he peremptorily inſiſteth upon his Right to have a free Poll, nor could the moſt ingenuous applications of divers worthy perſons diſſwade him; but though it was repreſented to him as folly to contend with ſo great and diſproportionable a multitude; and as diſingenu<g ref="char:EOLhyphen"/>ous to create a needleſs trouble to his neighbours; and as a diſparagement to himſelf to have it upon record that he had no more friends; yet ſtill he remained unmovable, and that obſtinacy in a bad cauſe might have the face of perſeverance in a good one; he aſſerted his right to have a fair and free Poll, and in ſhort he had it: It was conſidered that the Term not being ended, there could be no Vacation in <hi>Weſtminſter-hall,</hi> all the Courts being taken up by the Judges, every Bench ſilled, except the <hi>Kings-Bench,</hi> where by the Abſence of the Lord Chief Juſtice <hi>Scroggs,</hi> there was a vacant place, but not room enough for a Poll; and therefore the <hi>Bride<g ref="char:EOLhyphen"/>well</hi> for the Pariſh of St. <hi>Margarets</hi> was agreed on, not as a place of choice and conveniency, but ſuch as the Inexorable law of Neceſſity impoſed on them.</p>
+            <p>The Poll had not continued long, but Mr. <hi>Tufftons</hi> adherents began to come in very thin, till in a while his own ingenuity began to rebel againſt his former reſolution, and ſeeing his cauſe deſperate, which 'tis a wonder he could not ſee before, he threw it up as loſt, and leaving about 20 Men upon Record for having no more brains, he prudently ſounded a retreat, and with three whole horſe-men quitted the ſervice, being followed down the ſtreet with the Va<g ref="char:EOLhyphen"/>ledictory ſhouts of the people at his heels, which he perhaps will interpret to have been ho<g ref="char:EOLhyphen"/>nourable applauſes, but others upon better grounds judg were the Marks of Deriſion.</p>
+            <p>The buſineſs being now ſo exceeding clear, the Poll ſoon ſum'd up (for Mr. <hi>Tufftons</hi> ſhort Horſes were ſoon curried), the Bayliff, with the two elected Knights at the Head of their Triumphant party, marched fair and ſoftly into the <hi>New Palace Yard,</hi> where at <hi>Weſtminſter-Hall</hi> Gate (the Courts of Chancery, Kings-Bench, Common-Pleas, and Exchequer, all ſitting) open Proclamation was made, that Sir <hi>William Poultney,</hi> and Sir <hi>William Waller</hi> were duly Elected for Burgeſſes to ſerve in the Approaching Parliament for the City of <hi>Weſtminſter,</hi> and the Liberties thereof, which was followed with the loud Applauſes and Acclamations of the whole Company.</p>
+            <p>There was it ſeems a Paper handed in the Croud from one to another, till at laſt it came to the hands of Mr. <hi>Thomas Owen,</hi> a perſon of great worth; who looking upon it, asked what was their pleaſure he ſhould do with it? who ſignified by ſigns and expreſſions, that he would give himſelf the trouble to read it: He conſented, and finding it an Addreſs of the Electors to their New elected Repreſentatives, demanded of the People whether he ſhould, according to the Tenour of the Paper, preſent it to thoſe Honoured perſons, their preſent Burgeſſes; which by lifting up their hands, and great ſhouts they approved of; and in purſuance of their deſires he preſented it to them, in theſe following words.</p>
+            <pb n="4" facs="tcp:97931:3" rendition="simple:additions"/>
+            <floatingText type="letter">
+               <body>
+                  <head>To the Honoured Sir <hi>William Poultney,</hi> and Sir <hi>William Waller,</hi> Knights, Una<g ref="char:EOLhyphen"/>nimouſly Elected as Members of the enſuing Parliament, for the Ancient City of <hi>Weſtminſter.</hi>
+                  </head>
+                  <p>WE the Inhabitants of this City, and the Liberties thereof here aſſembled, retaining a moſt grateful and indelible ſenſe of your prudent zeal in the late Parliament, in ſearching into the depth of the horrid and helliſh Plots of the Papiſts, againſt his Majeſties Royal Perſon, the Pro<g ref="char:EOLhyphen"/>teſtant Religion, and the Government of the Realm; and in bringing the Authors of the ſaid wicked counſels to condign puniſhment. And remembring alſo your faithful diſcharge of that great truſt repoſed in you, in vindicating our undoubted Right of Petitioning his Majeſty, that Parliaments way ſit for the Redreſs of our Grievances; which hereditary Priviledg, ſome bad men would have wreſted out of our hands, upon whom you have ſet ſuch a juſt brand of Ignominy; as may deter them from the like attempts for the time to come. And further reflecting ſeriouſly upon your vigorous en<g ref="char:EOLhyphen"/>deavours, to ſecure to us, and our poſterity, the profeſſion of the true Religion, by thoſe juſt, legal and neceſſary expedients which the great Wiſdom of the two laſt Parliaments fixed upon, and ad<g ref="char:EOLhyphen"/>hered to; Do find our ſelves obliged to make our open ocknowledgment of, and to return our hearty thanks for your eminent integrity and faithfulneſs, your indefatigable labour and pains in the Pre<g ref="char:EOLhyphen"/>miſſes: Not once queſtioning but you will maintain the ſame good ſpirit and zeal to ſecure his Ma<g ref="char:EOLhyphen"/>jeſties Royal Perſon, and to preſerve to us the Proteſtant Religion (wherein all good Subjects have an intereſt) againſt the ſubtle and ſecret contrivances, and open aſſaults of the Common enemy; as alſo our Civil Rights and Properties againſt the encroachments of Arbitrary Power. In purſu<g ref="char:EOLhyphen"/>ance of which great and good ends, we ſhall always be ready, as we are obliged, to adhere to you, our Honoured Repreſentatives, with the utmoſt hazard of our Perſons and Eſtates.</p>
+               </body>
+            </floatingText>
+            <p>This Addreſs being thus preſented, and accepted, Sir <hi>William Poultney</hi> in his own, and the Name of his Colleague, Sir <hi>William Waller,</hi> made a ſhort, but pithy Return, in theſe words.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Gentlemen!</salute>
+                  </opener>
+                  <p>IT may be expected We ſhould ſay ſomething to you in anſwer to your Paper, which contains, firſt your Kindneſs, and ſecondly your Inſtructions to us.</p>
+                  <p>As for your Kindneſs, give us leave to ſay, that we are very much oblig'd to you for your good Opinion of our Endeavours to ſerve you in the laſt Parliament, which is beſt teſtified by your Re<g ref="char:EOLhyphen"/>peated Favour, in freely Chuſing us again to ſerve you in this enſuing one.</p>
+                  <p>As for the Inſtructions which you have given us, they are many, great and weighty, and which (as we conceive) may conduce very much to the preſervation of the Peace and Quiet of this Nation; but being of ſo high Importance, we can at the preſent give no other anſwer to them, than that we ſhall duly conſider them, and all other ſuch Inſtructions as we ſhall at any other time receive from you, conduceable to the preſervation of his Majeſties Perſon and Government, the Security of the true Proteſtant Religion, and our Laws and Liberties. To which end we do heartily wiſh, and we ſhall uſe our utmoſt endeavours to maintain a happy <g ref="char:V">Ʋ</g>nion betwixt the King and his Parliament, as alſo a <g ref="char:V">Ʋ</g>nion amongſt all his Majeſties Proteſtant Subjects, the beſt means to ſecure our Religion, Laws and Liberties againſt the Incroachments of Popery and Arbitrary Power, and we hope we ſhall never live to ſee a Popiſh Succeſſor.</p>
+               </body>
+            </floatingText>
+            <p>All this was accompanied with repeated Acclamations and Teſtimonies of great ſatisfaction; the two New elected Burgeſſes were conducted to their ſeveral habitations, when firſt the uſual Indentures had been ſealed; and Sir <hi>William Waller</hi> at the departure of his friends ex<g ref="char:EOLhyphen"/>preſſed him to them, to the ſame purport with the Speech of Sir <hi>William Poultney.</hi>
+            </p>
+            <p>And now, Honoured Sir, I hope I have ſatisfied, and I fear glutted your curioſity in all the Niceties of this Election, and ſhall only obſerve to you, that in the whole management of this affair the Inhabitants did not put their deſigned Repreſentatives to the leaſt expence: the people did not here ſell their Votes and Souls for treats and wine; nor was there any here that would have purchas'd ſuch Votes, if there had any been found to expoſe them to ſale; for we know well, that they who buy our Votes, will ſell their own; and reimburſe themſelves upon our Eſtates, if we ſhould put them to charge upon our Carcaſſes. We hope alſo you will obſerve how unanimous this City and yours have been in their zeal for the Kings Perſon and Proteſtant Religion; what remains, but I beg your pardon for the length of this Narrative, whoſe truth needs no Indulgence, and that I ſubſcribe,</p>
+            <closer>
+               <signed>SIR, <hi>Yours to be Commanded,</hi> L. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Davies.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
